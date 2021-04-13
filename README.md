@@ -1,4 +1,4 @@
-# KAPA-Never-Sunday-2
+# JOHNSONS-Initial-D-FiveM
 Author:   Drift Johnson
 
 Title:    Reshade.me Shader Preset "InitialD" for FiveM / GTAV
